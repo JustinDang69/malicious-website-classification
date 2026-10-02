@@ -155,7 +155,7 @@ Important features included:
 
 ## Repository Contents
 
-### `S8149950_Mini Assignment(1).R`
+### `malicious_website_classification.R`
 
 Complete reproducible R workflow including:
 
@@ -176,7 +176,7 @@ Complete reproducible R workflow including:
 
 Dataset used for the project.
 
-### `NIT3202_Mini_Assignment_Justin_Dang_s8149950.docx`
+### `malicious_website_classification_report.docx`
 
 Full project report containing methodology, results, charts, confusion matrices and discussion.
 
